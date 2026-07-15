@@ -181,8 +181,26 @@ Laporan lengkap tersedia di [`Laporan_uas.md`](Laporan_uas.md). Laporan memuat B
 
 ## Referensi Utama
 
-1. Stallkamp et al. (2011), *The German Traffic Sign Recognition Benchmark*. https://doi.org/10.1109/IJCNN.2011.6033395
-2. Stallkamp et al. (2012), *Man vs. computer: Benchmarking machine learning algorithms for traffic sign recognition*. https://doi.org/10.1016/j.neunet.2012.02.016
-3. Sandler et al. (2018), *MobileNetV2: Inverted Residuals and Linear Bottlenecks*. https://doi.org/10.1109/CVPR.2018.00474
-4. Krizhevsky et al. (2012), *ImageNet Classification with Deep Convolutional Neural Networks*. https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
-5. LeCun et al. (2015), *Deep Learning*. https://doi.org/10.1038/nature14539
+1. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet classification with deep convolutional neural networks. *Advances in Neural Information Processing Systems, 25*, 1097–1105. 
+
+2. LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature, 521*(7553), 436–444. 
+
+3. Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L.-C. (2018). MobileNetV2: Inverted residuals and linear bottlenecks. In *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (pp. 4510–4520). 
+
+4. Stallkamp, J., Schlipsing, M., Salmen, J., & Igel, C. (2011). The German Traffic Sign Recognition Benchmark: A multi-class classification competition. In *2011 International Joint Conference on Neural Networks* (pp. 1453–1460). IEEE. 
+
+5. Stallkamp, J., Schlipsing, M., Salmen, J., & Igel, C. (2012). Man vs. computer: Benchmarking machine learning algorithms for traffic sign recognition. *Neural Networks, 32*, 323–332. 
+
+6. Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. In *Proceedings of the 36th International Conference on Machine Learning* (pp. 6105–6114). PMLR. 
+
+7. Stallkamp, J., Schlipsing, M., Salmen, J., & Igel, C. (2012). Man vs. computer: Benchmarking machine learning algorithms for traffic sign recognition. Neural Networks, 32, 323–332.
+
+8. LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436–444.
+
+9. Arcos-García, Á., Álvarez-García, J. A., & Soria-Morillo, L. M. (2018). Deep neural network for traffic sign recognition systems: An analysis of spatial transformers and stochastic optimisation methods. Neural Networks, 99, 158–165.
+
+10. Lim, K., Hong, Y., Choi, Y., & Byun, H. (2017). Real-time traffic sign recognition based on a general purpose GPU and deep-learning. PLOS ONE, 12(3), e0173317.
+
+11. Lim, X. R., Lee, C. P., Lim, K. M., Ong, T. S., Alqahtani, A., & Ali, M. (2023). Recent advances in traffic sign recognition: Approaches and datasets. Sensors, 23(10), 4674.
+
+12. Khan, M. A., Park, H., & Chae, J. (2023). A lightweight convolutional neural network (CNN) architecture for traffic sign recognition in urban road networks. Electronics, 12(8), 1802.
