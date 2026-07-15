@@ -236,8 +236,6 @@ Arcos-García, Á., Álvarez-García, J. A., & Soria-Morillo, L. M. (2018). Deep
 
 Lim, K., Hong, Y., Choi, Y., & Byun, H. (2017). Real-time traffic sign recognition based on a general purpose GPU and deep-learning. PLOS ONE, 12(3), e0173317.
 
-Youssouf, N. (2022). Traffic sign classification using CNN and detection using Faster-RCNN and YOLOV4. Heliyon, 8, e11792.
-
 Lim, X. R., Lee, C. P., Lim, K. M., Ong, T. S., Alqahtani, A., & Ali, M. (2023). Recent advances in traffic sign recognition: Approaches and datasets. Sensors, 23(10), 4674.
 
 Khan, M. A., Park, H., & Chae, J. (2023). A lightweight convolutional neural network (CNN) architecture for traffic sign recognition in urban road networks. Electronics, 12(8), 1802.
