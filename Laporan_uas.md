@@ -228,6 +228,20 @@ Stallkamp, J., Schlipsing, M., Salmen, J., & Igel, C. (2012). Man vs. computer: 
 
 Tan, M., & Le, Q. V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. In *Proceedings of the 36th International Conference on Machine Learning* (pp. 6105–6114). PMLR. https://proceedings.mlr.press/v97/tan19a.html
 
+Stallkamp, J., Schlipsing, M., Salmen, J., & Igel, C. (2012). Man vs. computer: Benchmarking machine learning algorithms for traffic sign recognition. Neural Networks, 32, 323–332.
+
+LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436–444.
+
+Arcos-García, Á., Álvarez-García, J. A., & Soria-Morillo, L. M. (2018). Deep neural network for traffic sign recognition systems: An analysis of spatial transformers and stochastic optimisation methods. Neural Networks, 99, 158–165.
+
+Lim, K., Hong, Y., Choi, Y., & Byun, H. (2017). Real-time traffic sign recognition based on a general purpose GPU and deep-learning. PLOS ONE, 12(3), e0173317.
+
+Youssouf, N. (2022). Traffic sign classification using CNN and detection using Faster-RCNN and YOLOV4. Heliyon, 8, e11792.
+
+Lim, X. R., Lee, C. P., Lim, K. M., Ong, T. S., Alqahtani, A., & Ali, M. (2023). Recent advances in traffic sign recognition: Approaches and datasets. Sensors, 23(10), 4674.
+
+Khan, M. A., Park, H., & Chae, J. (2023). A lightweight convolutional neural network (CNN) architecture for traffic sign recognition in urban road networks. Electronics, 12(8), 1802.
+
 ## 10. Lampiran
 
 Lampiran utama proyek adalah `uas_model.ipynb`, yang memuat kode pengunduhan data, EDA, persiapan data, arsitektur model, *confusion matrix*, dan evaluasi. Dataset mentah tidak disimpan langsung di repositori karena ukurannya besar; petunjuk pengunduhan tersedia pada `README.md`.
